@@ -23,7 +23,8 @@ A visual demonstration of the AI Excel application in action.
 <img width="1919" height="767" alt="image" src="https://github.com/user-attachments/assets/812e198a-eeb3-4af6-91c2-9b86104d46bd" />
 
 **Detection Syetem**
-<img width="1755" height="902" alt="Diagrams/Plots Screenshot" src="https://github.com/user-attachments/assets/ab524ea6-d747-4af6-99c7-e74630708a37" />
+<img width="1755" height="902" alt="<img width="752" height="588" alt="image" src="https://github.com/user-attachments/assets/8258ee07-3f52-4fcd-81e0-2fd3743ed12f" />
+" />
 <img width="1906" height="982" alt="Diagrams/Plots Screenshot" src="https://github.com/user-attachments/assets/26c72c56-749a-4ee8-9685-4d1e85b9a412" />
 
 
