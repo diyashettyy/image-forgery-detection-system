@@ -1,9 +1,3 @@
-<img width="752" height="588" alt="image" src="https://github.com/user-attachments/assets/1e76f1c8-7d53-4798-92a9-150b2df69ef5" />Perfect — I’ll mirror **this exact professional README style and structure** (badges, sections, clean technical tone) but customize it fully for your **Image Forgery Detection System**.
-
-You can directly copy-paste this into `README.md`.
-
----
-
 # Image Forgery Detection System
 
 ## Overview
