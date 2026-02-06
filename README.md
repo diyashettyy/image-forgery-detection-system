@@ -16,19 +16,19 @@ The system integrates Convolutional Neural Networks (CNN) with Error Level Analy
 
 ## Screenshots
 
-**login page**
+##LOGIN PAGE
 <img width="664" height="545" alt="image" src="https://github.com/user-attachments/assets/c721a8e6-e833-4461-84b3-fab35f6a9a27" />
 
 
-**main interface**
+##MAIN INTERFACE
 <img width="746" height="570" alt="image" src="https://github.com/user-attachments/assets/812e198a-eeb3-4af6-91c2-9b86104d46bd" />
 
 
-**authentic image**
+##AUTHENTIC IMAGE
 <img width="775" height="605" alt="image" src="https://github.com/user-attachments/assets/ab524ea6-d747-4af6-99c7-e74630708a37" />
 
 
-**forged image**
+##FORGED IMAGE
 <img width="775" height="605" alt="image" src="https://github.com/user-attachments/assets/26c72c56-749a-4ee8-9685-4d1e85b9a412" />
 
 
